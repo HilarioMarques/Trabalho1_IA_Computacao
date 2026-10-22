@@ -110,10 +110,3 @@ Os notebooks usam `random_state=42` nas divisões de dados.
 ## Artigo
 
 O artigo completo, com metodologia, resultados e discussão, está em [`artigo/Artigo_KNN_SVM.pdf`](artigo/Artigo_KNN_SVM.pdf). 
-
-## Referências
-
-- AYRES, L. D. G.; BRITO, I. V. S.; SOUZA, R. R. G. e. *Utilizando aprendizado de máquina para detecção automática de URLs maliciosas brasileiras*. Universidade Federal da Bahia.
-- WESSEL, L. H. Aprendizado de máquina na predição de doença cardíaca: uma análise comparativa de algoritmos de classificação. *Revista Eletrônica Multidisciplinar de Investigação Científica*, v. 5, n. 23, 2026.
-- SILVA, L. A.; PERES, S. M.; BOSCARIOLI, C. *Introdução à mineração de dados: com aplicações em R*. Rio de Janeiro: Elsevier, 2016.
-- PEDREGOSA, F. et al. Scikit-learn: machine learning in Python. *Journal of Machine Learning Research*, v. 12, p. 2825-2830, 2011.
